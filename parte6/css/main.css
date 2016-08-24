@@ -1,1 +1,27 @@
 /* Pon tu código css aqui */
+body{
+	margin:0;
+	padding:0;
+}
+button{
+	margin:10px;
+}
+.caja{
+	width:200px;
+	height:200px;
+	position:static;
+}
+.rojo{
+	background-color:#EE3E64;
+}
+.azul{
+	background-color: #44ACCF;
+	position: absolute;
+	left: 200px;
+}
+.verde{
+	background-color:#B7D84B;
+}
+.amarilla{
+	background-color: #FFEF1E;
+}
